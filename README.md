@@ -46,7 +46,7 @@ Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Sof
 </br>
 
 <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/jacksonhmteixeira?tab=repositories">
     <img
       align="center"
       height="165"
@@ -54,7 +54,7 @@ Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Sof
     />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/jacksonhmteixeira?tab=repositories">
     <img
       align="center"
       height="165"
