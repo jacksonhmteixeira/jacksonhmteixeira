@@ -2,7 +2,7 @@
 
 Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Software há 4 anos no mercado de TI. Oferecendo maior experiência em Testes Funcionais, Testes de Regressão e Testes Automatizados (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin). Também apaixonado por programação Back-End (Java) e Front-end (Angular, Bootstrap, Materialize, HTML5 e CSS). Caso Queira saber melhor sobre mim, minhas redes sociais estarão disponíveis abaixo.
 
-<img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="500" height="400" />
+<img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
 ### Sobre mim:
 
@@ -24,7 +24,11 @@ Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Sof
   </a>
 </div>
 
+</br>
+
 ### Linguagem e Ferramentas:
+
+</br>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -37,6 +41,8 @@ Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Sof
 ![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+</br>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
