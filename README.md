@@ -1,6 +1,6 @@
 ### Olá Pessoal 👋
 
-Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Software há 4 anos no mercado de TI. Oferecendo maior experiência em Testes Funcionais, Testes de Regressão e Testes Automatizados (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin). Também apaixonado por programação Back-End (Java) e Front-end (Angular, Bootstrap, Materialize, HTML5 e CSS). Caso Queira saber melhor sobre mim, minhas redes sociais estarão disponíveis abaixo.
+Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Software há 4 anos no mercado de TI. Oferecendo maior experiência em Testes Funcionais, Testes de Regressão e Testes Automatizados <b> (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin)</b>. Também apaixonado por programação Back-End <b>(Java)</b> e Front-end <b>(Angular, Bootstrap, Materialize, HTML5 e CSS)</b>. Caso Queira saber melhor sobre mim, minhas redes sociais estarão disponíveis abaixo.
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
