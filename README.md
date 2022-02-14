@@ -11,7 +11,7 @@ Test analyst with 4 years of experience in the market offering extensive experie
 - 🎉 24 years
 - 📌 Brazilian
 
-### Sociais Medias:
+### Sociais Media:
 
 
   <a href="https://www.linkedin.com/in/jacksonhmt" alt="Linkedin">
