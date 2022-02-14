@@ -1,17 +1,17 @@
-### Olá Pessoal 👋
+### Hi Guys 👋
 
-Eu sou Jackson, formado em Engenharia de Computação. Trabalho com Teste de Software há 4 anos no mercado de TI. Oferecendo maior experiência em Testes Funcionais, Testes de Regressão e Testes Automatizados <b> (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin)</b>. Também apaixonado por programação Back-End <b>(Java)</b> e Front-end <b>(Angular, Bootstrap, Materialize, HTML5 e CSS)</b>. Caso Queira saber melhor sobre mim, minhas redes sociais estarão disponíveis abaixo.
+Test analyst with 4 years of experience in the market offering extensive experience in Functional Testing, Regression Testing and Automated Testing (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin, Robot Framework and Appium). I also have some knowledge in Back-end (Java) and Front-end (Angular, Bootstrap, Materialize, HTML5 and CSS).
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
-### Sobre:
+### About:
 
-- 💻 Analista de Teste
-- 🎓 Engenheiro de Computação
-- 🎉 23 Anos
-- 📌 Brasil
+- 💻 Test Analyst
+- 🎓 Computer Engineer
+- 🎉 24 years
+- 📌 Brazilian
 
-### Redes Sociais:
+### Sociais Networks:
 
 
   <a href="https://www.linkedin.com/in/jacksonhmt" alt="Linkedin">
