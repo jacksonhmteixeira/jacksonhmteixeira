@@ -1,6 +1,6 @@
 ### Hi Guys 👋
 
-Test analyst with 4 years of experience in the market offering extensive experience in Functional Testing, Regression Testing and Automated Testing (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin, Robot Framework and Appium). I also have some knowledge in Back-end (Java) and Front-end (Angular, Bootstrap, Materialize, HTML5 and CSS).
+Test analyst with 6 years of experience in the market offering extensive experience in Functional Testing, Regression Testing and Automated Testing (Selenium IDE/WebDriver, Katalon, Cucumber, JUnit, Gherkin, Robot Framework and Appium). I also have some knowledge in Back-end (Java) and Front-end (Angular, Bootstrap, Materialize, HTML5 and CSS).
 
 <img align="right" alt="GIF" src="Documentos/Prints/escritorio.gif" width="350" height="280" />
 
@@ -8,7 +8,7 @@ Test analyst with 4 years of experience in the market offering extensive experie
 
 - 💻 Test Analyst
 - 🎓 Computer Engineer
-- 🎉 24 years
+- 🎉 25 years
 - 📌 Brazilian
 
 ### Social Media:
@@ -61,8 +61,4 @@ Test analyst with 4 years of experience in the market offering extensive experie
       src="https://github-readme-stats.vercel.app/api?username=jacksonhmteixeira&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
     />
   </a>
-
-
-
-
 </p>
